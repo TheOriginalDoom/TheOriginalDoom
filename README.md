@@ -1,8 +1,6 @@
 <div align="center">
 
-### Hello There 👋
-
-I'm Fabio! 😃 <br>
+Yo I'm Doom2768
 ---
 
 ## Languages:
