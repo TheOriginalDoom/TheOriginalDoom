@@ -1,20 +1,21 @@
 <div align="center">
 
-Yo I'm Doom2768
+Yo I'm Doom2768<br>
+
 ---
 
 ## Languages:
 <div align="center">
-    - Python
-    - HTML
-    - CSS
-    - Javascript
-    - NodeJS
-    - Luau
-    - Löve (Lua)
-    - Swift
-    - Apple Script
-    - Markdown
+    - Python<br>
+    - HTML<br>
+    - CSS<br>
+    - Javascript<br>
+    - NodeJS<br>
+    - Luau<br>
+    - Löve (Lua)<br>
+    - Swift<br>
+    - Apple Script<br>
+    - Markdown<br>
     - Ren'Py (Python)
 </div>
 
